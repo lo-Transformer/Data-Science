@@ -1,4 +1,4 @@
-Texas McCombs School of Business - Postgraduate Degree, Data Science, Business AnalyticsPostgraduate Degree, Data Science, Business Analytics
+Texas McCombs School of Business - Postgraduate Degree, Data Science, Business Analytics, Machine Learning, AI
 Aug 2024
 - Python
 - Busines Statistics
